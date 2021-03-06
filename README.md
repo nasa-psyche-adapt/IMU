@@ -1,2 +1,2 @@
 # IMU
-ros nodes for imu
+code for Adafruit TDK Invensense ICM-20948
