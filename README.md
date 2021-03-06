@@ -1,2 +1,2 @@
-# imu_node
+# IMU
 ros nodes for imu
