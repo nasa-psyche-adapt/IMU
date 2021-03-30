@@ -1,2 +1,2 @@
 # IMU
-code for Adafruit TDK Invensense ICM-20948
+code for Adafruit BNO055
